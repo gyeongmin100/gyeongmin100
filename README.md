@@ -4,9 +4,11 @@
 
 </div>
 
-### 🛠️ Recent Projects
+### 🛠️ Services
 
 - **[또렷](https://ddoreot.site/)** - 텍스트 특화 이미지 업스케일러
+
+- **[팀빌더](https://teambuilder-5je.pages.dev/)** - 팀 구성을 도와주는 웹 서비스
 
 - **[지하철 퀵체크](https://play.google.com/store/apps/details?id=com.im100km.subwayquickcheck)** - 지하철 도착 정보를 빠르게 확인할 수 있는 안드로이드 앱
 
